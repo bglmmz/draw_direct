@@ -1,0 +1,10 @@
+E:\qx_tech\lesson\draw_direct\draw_direct\bin\Debug\draw_direct.exe.config
+E:\qx_tech\lesson\draw_direct\draw_direct\bin\Debug\draw_direct.exe
+E:\qx_tech\lesson\draw_direct\draw_direct\bin\Debug\draw_direct.pdb
+E:\qx_tech\lesson\draw_direct\draw_direct\obj\Debug\draw_direct.Form1.resources
+E:\qx_tech\lesson\draw_direct\draw_direct\obj\Debug\draw_direct.Properties.Resources.resources
+E:\qx_tech\lesson\draw_direct\draw_direct\obj\Debug\draw_direct.csproj.GenerateResource.cache
+E:\qx_tech\lesson\draw_direct\draw_direct\obj\Debug\draw_direct.csproj.CoreCompileInputs.cache
+E:\qx_tech\lesson\draw_direct\draw_direct\obj\Debug\draw_direct.exe
+E:\qx_tech\lesson\draw_direct\draw_direct\obj\Debug\draw_direct.pdb
+E:\qx_tech\lesson\draw_direct\draw_direct\obj\Debug\draw_direct.csprojAssemblyReference.cache
